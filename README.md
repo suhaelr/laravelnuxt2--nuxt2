@@ -1,4 +1,5 @@
 # nuxt-crud
+Refactoring to Nuxt 3 in Progress
 
 ## Build Setup
 
